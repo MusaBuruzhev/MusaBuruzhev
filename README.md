@@ -1,9 +1,11 @@
-# 👋 Привет, я Муса Буружев
-
-> Разработчик с опытом в веб-разработке (HTML, CSS, JavaScript, Vue.js, PHP, Node.js) и базами данных (MySQL, MongoDB) 🚀
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+# 👋 Привет, я Муса Буружев
+
+> Разработчик с опытом в веб-разработке (HTML, CSS, JavaScript, Vue.js, PHP, Node.js) и базами данных (MySQL, MongoDB) 🚀
+
 
 ## 🛠 Навыки
 
