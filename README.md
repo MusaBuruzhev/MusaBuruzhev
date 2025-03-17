@@ -6,7 +6,9 @@
 
 > Разработчик с опытом в веб-разработке (HTML, CSS, JavaScript, Vue.js, PHP, Node.js) и базами данных (MySQL, MongoDB) 🚀
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ## 🛠 Навыки
 
 ### Frontend
