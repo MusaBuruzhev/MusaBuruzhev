@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/peppo-dance-programming-gif-20353294" width="100"/>
+  <img src="[https://tenor.com/ru/view/peppo-dance-programming-gif-20353294](https://tenor.com/ru/view/kek-angry-code-matrix-gif-13818761)" width="100"/>
 </div>
 
 # 👋 Привет, я Муса Буружев
