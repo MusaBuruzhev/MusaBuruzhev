@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Привет, я [Имя Фамилия]
 
-<!--
-**MusaBuruzhev/MusaBuruzhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Разработчик с опытом в [технологии] 🚀
 
-Here are some ideas to get you started:
+## 🛠 Навыки
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Проекты
+- [Проект 1](ссылка): описание проекта.
+- [Проект 2](ссылка): описание проекта.
+
+## 📫 Свяжитесь со мной
+- Email: your.email@example.com
+- Telegram: [@yourusername](ссылка)
