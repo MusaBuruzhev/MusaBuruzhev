@@ -1,6 +1,13 @@
 # 👋 Привет, я Муса Буружев
 
 > Разработчик с опытом в веб-разработке (HTML, CSS, JavaScript, Vue.js, PHP, Node.js) и базами данных (MySQL, MongoDB) 🚀
+> 
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="50" height="50" fill="orange">
+    <animate attributeName="x" values="10;150;10" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="y" values="10;150;10" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>
 
 ## 🛠 Навыки
 
