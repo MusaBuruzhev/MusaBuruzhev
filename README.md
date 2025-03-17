@@ -36,4 +36,4 @@
 
 ## 📫 Свяжитесь со мной
 - Email: your.email@example.com
-- Telegram: [@yourusername](ссылка)
+- Telegram: [@momentum77](t.me/momentum77)
