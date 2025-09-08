@@ -1,6 +1,29 @@
-<p align="center">
-  <img src="https://tenor.com/ru/view/samurai-gif-15280227710468899266" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Левый иероглиф -->
+      <td width="33%" align="center">
+        <h1 style="font-size: 120px;">武</h1>
+        <p><em>Воинское искусство</em></p>
+      </td>
+      
+      <!-- Гифка самурая -->
+      <td width="34%" align="center">
+        <div class="tenor-gif-embed" data-postid="15280227710468899266" data-share-method="host" data-aspect-ratio="0.564257" data-width="100%">
+          <a href="https://tenor.com/view/samurai-gif-15280227710468899266">Samurai GIF</a> from 
+          <a href="https://tenor.com/search/samurai-gifs">Samurai GIFs</a>
+        </div> 
+        <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      </td>
+      
+      <!-- Правый иероглиф -->
+      <td width="33%" align="center">
+        <h1 style="font-size: 120px;">道</h1>
+        <p><em>Путь</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <strong>「コードは私の刀である」</strong><br>
