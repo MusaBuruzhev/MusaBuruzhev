@@ -1,6 +1,6 @@
 <div align="center">
 
-![Samurai GIF](https://media.tenor.com/2cSxT3NTUAAAAAe/samurai-japan.gif)
+![Samurai GIF](/samurai-japan.gif)
 
 <p>
   <strong>「コードは私の刀である」</strong><br>
