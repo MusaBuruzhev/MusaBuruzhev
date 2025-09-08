@@ -1,6 +1,6 @@
 <div align="center">
 
-![Samurai GIF](/SUM.gif)
+![Samurai GIF](/kkk.gif)
 
 <p>
   <strong>「コードは私の刀である」</strong><br>
