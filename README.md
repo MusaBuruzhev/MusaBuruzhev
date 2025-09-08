@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/86/3f/00/863f004c4b1c3c71cee3934c5d256d0f.gif" width="200" alt="Anime Eyes" />
+  <a href="https://github.com/MusaBuruzhev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&lines=Привет+👋+Я+Муса;Frontend-самурай;Код+—+моё+искусство" alt="Typing Animation" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Аниме-глаза с анимацией -->
+  <img src="https://raw.githubusercontent.com/MusaBuruzhev/MusaBuruzhev/main/.github/images/anime-eyes.gif" width="200" alt="Anime Eyes" />
 </p>
 
 
