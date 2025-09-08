@@ -1,11 +1,18 @@
-<div class="tenor-gif-embed" data-postid="17444000" data-share-method="host" data-aspect-ratio="1.43498" data-width="100%"><a href="https://tenor.com/view/samurai-japan-windy-sword-birds-gif-17444000">Samurai Japan GIF</a>from <a href="https://tenor.com/search/samurai-gifs">Samurai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-### 👋 Привет, меня зовут Муса
+<div align="center">
 
-**Frontend-разработчик | Создаю чистые и эффективные интерфейсы с точностью**
+<!-- Гифка самурая -->
+<div class="tenor-gif-embed" data-postid="17444000" data-share-method="host" data-aspect-ratio="1.43498" data-width="100%">
+  <a href="https://tenor.com/view/samurai-japan-windy-sword-birds-gif-17444000">Samurai Japan GIF</a> from 
+  <a href="https://tenor.com/search/samurai-gifs">Samurai GIFs</a>
+</div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-Я подхожу к фронтенд-разработке с философией ясности, эффективности и постоянного совершенствования. Я верю в написание кода, который не только функционален, но и поддерживаем и элегантен.
+<p>
+  <strong>「コードは私の刀である」</strong><br>
+  <em>"Code is my sword"</em>
+</p>
 
----
+</div>
 
 <p align="center">
   <strong>「コードは私の刀である」</strong><br>
