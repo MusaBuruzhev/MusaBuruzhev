@@ -158,7 +158,7 @@
   <!-- Счетчики -->
   <img src="https://komarev.com/ghpvc/?username=MusaBuruzhev&label=Profile%20Views&color=0e75b6&style=flat" alt="Посетители профиля" />
   
-  <img src="https://img.shields.io/github/commit-activity/m/MusaAkhmatov/MusaBuruzhev?label=Monthly%20Commits" alt="Ежемесячные коммиты" />
+  <img src="https://img.shields.io/github/commit-activity/m/MusaBuruzhev/MusaBuruzhev?label=Monthly%20Commits" alt="Ежемесячные коммиты" />
   
 </div>
 
