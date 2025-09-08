@@ -160,20 +160,20 @@
   
   <!-- Граф активности -->
   [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MusaBuruzhev&theme=react-dark&hide_border=true&area=true)](https://github.com/MusaBuruzhev)
-  
-  <!-- Основная статистика и топ языков в одну строку -->
-  <table>
-    <tr>
-      <td>
-        [![Stats](https://github-readme-stats.vercel.app/api?username=MusaBuruzhev&show_icons=true&theme=vision-friendly-dark)](https://github.com/MusaBuruzhev)
-      </td>
-      <td>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaBuruzhev&layout=compact&theme=vision-friendly-dark)](https://github.com/MusaBuruzhev)
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Счетчики -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/MusaBuruzhev">
+        <img src="https://github-readme-stats.vercel.app/api?username=MusaBuruzhev&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" style="border-radius: 5px; border: 1px solid #30363d;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MusaBuruzhev">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaBuruzhev&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="border-radius: 5px; border: 1px solid #30363d;">
+      </a>
+    </td>
+  </tr>
+</table>
   <img src="https://komarev.com/ghpvc/?username=MusaBuruzhev&label=Profile%20Views&color=0e75b6&style=flat" alt="Посетители профиля" />
   
   <img src="https://img.shields.io/github/commit-activity/m/MusaBuruzhev/MusaBuruzhev?label=Monthly%20Commits" alt="Ежемесячные коммиты" />
