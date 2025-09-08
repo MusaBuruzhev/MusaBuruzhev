@@ -24,129 +24,129 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="64" height="64" alt="React" />
       </a>
       <br><strong>React</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular" />
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="64" height="64" alt="Angular" />
       </a>
       <br><strong>Angular</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="64" height="64" alt="Next.js" />
       </a>
       <br><strong>Next.js</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64" height="64" alt="TypeScript" />
       </a>
       <br><strong>TypeScript</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript" />
       </a>
       <br><strong>JavaScript</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="64" height="64" alt="HTML5" />
       </a>
       <br><strong>HTML5</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="64" height="64" alt="CSS3" />
       </a>
       <br><strong>CSS3</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="64" height="64" alt="Tailwind" />
       </a>
       <br><strong>Tailwind</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="64" height="64" alt="SASS" />
       </a>
       <br><strong>SASS</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+        <img src="https://vitejs.dev/logo.svg" width="64" height="64" alt="Vite" />
       </a>
       <br><strong>Vite</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="64" height="64" alt="Node.js" />
       </a>
       <br><strong>Node.js</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="64" height="64" alt="Python" />
       </a>
       <br><strong>Python</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="64" height="64" alt="MongoDB" />
       </a>
       <br><strong>MongoDB</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="MySQL" />
       </a>
       <br><strong>MySQL</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="64" height="64" alt="PostgreSQL" />
       </a>
       <br><strong>PostgreSQL</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="64" height="64" alt="Postman" />
       </a>
       <br><strong>Postman</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="64" height="64" alt="Git" />
       </a>
       <br><strong>Git</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="48" height="48" alt="Webpack" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="64" height="64" alt="Webpack" />
       </a>
       <br><strong>Webpack</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="64" height="64" alt="Figma" />
       </a>
       <br><strong>Figma</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="64" height="64" alt="Docker" />
       </a>
       <br><strong>Docker</strong>
     </td>
