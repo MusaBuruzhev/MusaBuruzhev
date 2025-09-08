@@ -17,8 +17,15 @@
 Я подхожу к фронтенд-разработке с философией ясности, эффективности и постоянного совершенствования. Я верю в написание кода, который не только функционален, но и поддерживаем и элегантен.
 
 
+---
+
+📫 **Связь со мной:** 
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mburugev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/MBuru_D)
 
 
+---
 
 ## 🛠️ Стек технологий
 
@@ -180,10 +187,4 @@
   
 </div>
 
----
-
-📫 **Связь со мной:** 
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mburugev@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/MBuru_D)
 
