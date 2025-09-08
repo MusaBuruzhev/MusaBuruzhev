@@ -1,12 +1,10 @@
 <p align="center">
-  <a href="https://github.com/MusaBuruzhev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&lines=Привет+👋+Я+Муса;Frontend-самурай;Код+—+моё+искусство" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=🎌+Frontend+Samurai;💻+Code+with+Honor;🎯+Precision+in+Every+Pixel" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <!-- Аниме-глаза с анимацией -->
-  <img src="https://raw.githubusercontent.com/MusaBuruzhev/MusaBuruzhev/main/.github/images/anime-eyes.gif" width="200" alt="Anime Eyes" />
+  <strong>「コードは私の刀である」</strong><br>
+  <em>"Code is my sword"</em>
 </p>
 
 
