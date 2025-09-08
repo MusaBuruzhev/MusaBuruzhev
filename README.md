@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Гифка самурая (прямая ссылка) -->
-<img src="https://media.tenor.com/2cSxT3NTUAAAAAe/samurai-japan.gif" width="500" />
+![Samurai GIF](https://media.tenor.com/2cSxT3NTUAAAAAe/samurai-japan.gif)
 
 <p>
   <strong>「コードは私の刀である」</strong><br>
