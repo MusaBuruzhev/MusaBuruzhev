@@ -1,4 +1,36 @@
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%" align="center" valign="top">
+        <h1 style="font-size: 60px; margin: 5px;">武</h1>
+        <p style="margin: 2px; font-size: 12px;"><em>Воинское искусство</em></p>
+        <h1 style="font-size: 60px; margin: 5px;">侍</h1>
+        <p style="margin: 2px; font-size: 12px;"><em>Самурай</em></p>
+        <h1 style="font-size: 60px; margin: 5px;">勇</h1>
+        <p style="margin: 2px; font-size: 12px;"><em>Мужество</em></p>
+        <h1 style="font-size: 60px; margin: 5px;">心</h1>
+        <p style="margin: 2px; font-size: 12px;"><em>Сердце</em></p>
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <div class="tenor-gif-embed" data-postid="15280227710468899266" data-share-method="host" data-aspect-ratio="0.564257" data-width="100%">
+          <a href="https://tenor.com/view/samurai-gif-15280227710468899266">Samurai GIF</a> from 
+          <a href="https://tenor.com/search/samurai-gifs">Samurai GIFs</a>
+        </div> 
+        <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      </td>
+      <td width="25%" align="center" valign="top">
+        <h1 style="font-size: 60px; margin: 5px;">道</h1>
+        <p style="margin: 2px; font-size: 12px;"><em>Путь</em></p>
+        <h1 style="font-size: 60px; margin: 5px;">技</h1>
+        <p style="margin: 2px; font-size: 12px;"><em>Мастерство</em></p>
+        <h1 style="font-size: 60px; margin: 5px;">美</h1>
+        <p style="margin: 2px; font-size: 12px;"><em>Красота</em></p>
+        <h1 style="font-size: 60px; margin: 5px;">コード</h1>
+        <p style="margin: 2px; font-size: 12px;"><em>Код</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <strong>「コードは私の刀である」</strong><br>
