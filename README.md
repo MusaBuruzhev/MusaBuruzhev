@@ -161,11 +161,17 @@
   <!-- Граф активности -->
   [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MusaBuruzhev&theme=react-dark&hide_border=true&area=true)](https://github.com/MusaBuruzhev)
   
-  <!-- Основная статистика -->
-  [![Stats](https://github-readme-stats.vercel.app/api?username=MusaBuruzhev&show_icons=true&theme=vision-friendly-dark)](https://github.com/MusaBuruzhev)
-  
-  <!-- Топ языков -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaBuruzhev&layout=compact&theme=vision-friendly-dark)](https://github.com/MusaBuruzhev)
+  <!-- Основная статистика и топ языков в одну строку -->
+  <table>
+    <tr>
+      <td>
+        [![Stats](https://github-readme-stats.vercel.app/api?username=MusaBuruzhev&show_icons=true&theme=vision-friendly-dark)](https://github.com/MusaBuruzhev)
+      </td>
+      <td>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaBuruzhev&layout=compact&theme=vision-friendly-dark)](https://github.com/MusaBuruzhev)
+      </td>
+    </tr>
+  </table>
   
   <!-- Счетчики -->
   <img src="https://komarev.com/ghpvc/?username=MusaBuruzhev&label=Profile%20Views&color=0e75b6&style=flat" alt="Посетители профиля" />
@@ -173,8 +179,6 @@
   <img src="https://img.shields.io/github/commit-activity/m/MusaBuruzhev/MusaBuruzhev?label=Monthly%20Commits" alt="Ежемесячные коммиты" />
   
 </div>
-
----
 
 
 🧠 **Принципы разработки**
