@@ -4,6 +4,10 @@
 
 Я подхожу к фронтенд-разработке с философией ясности, эффективности и постоянного совершенствования. Я верю в написание кода, который не только функционален, но и поддерживаем и элегантен.
 
+
+
+
+
 ## 🛠️ Стек технологий
 
 <table align="center">
@@ -136,6 +140,31 @@
     </td>
   </tr>
 </table>
+
+
+---
+
+## 📊 Статистика активности
+
+<!-- Анимированные счетчики - будут видны на GitHub -->
+<div align="center">
+  
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true)
+  
+  <!-- Строка с анимированной статистикой -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vision-friendly-dark" alt="Статистика" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-friendly-dark" alt="Топ языков" height="165"/>
+  </p>
+  
+  <!-- Стрик посетителей -->
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Посетители профиля" />
+  
+  <!-- Счетчик коммитов -->
+  <img src="https://img.shields.io/github/commit-activity/m/your-username/your-username?label=Monthly%20Commits" alt="Ежемесячные коммиты" />
+  
+</div>
+
 
 🧠 **Принципы разработки**
 
