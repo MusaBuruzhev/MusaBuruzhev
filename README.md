@@ -7,11 +7,6 @@
 </div> 
 <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<p>
-  <strong>「コードは私の刀である」</strong><br>
-  <em>"Code is my sword"</em>
-</p>
-
 </div>
 
 <p align="center">
