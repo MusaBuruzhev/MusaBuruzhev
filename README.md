@@ -1,5 +1,5 @@
 <div align="center">
-![Samurai GIF](/ezgif.com-animated-gif-maker.gif) 
+![Samurai GIF](/SUM.gif) 
 
 <p>
   <strong>「コードは私の刀である」</strong><br>
