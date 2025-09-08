@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=🎌+Frontend+Samurai;💻+Code+with+Honor;🎯+Precision+in+Every+Pixel" alt="Typing Animation" />
+  <img src="https://tenor.com/ru/view/samurai-gif-15280227710468899266" />
 </p>
 
 <p align="center">
