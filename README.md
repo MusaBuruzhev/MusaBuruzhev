@@ -156,21 +156,22 @@
 
 ## 📊 Статистика активности
 
-<div align="center">
+<div align="center" style="max-width: 800px; margin: 0 auto;">
   
   <!-- Граф активности -->
-  [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MusaBuruzhev&theme=react-dark&hide_border=true&area=true)](https://github.com/MusaBuruzhev)
+  [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MusaBuruzhev&theme=react-dark&hide_border=true&area=true&width=800)](https://github.com/MusaBuruzhev)
   
   <!-- Основная статистика -->
-  [![Stats](https://github-readme-stats.vercel.app/api?username=MusaBuruzhev&show_icons=true&theme=vision-friendly-dark)](https://github.com/MusaBuruzhev)
+  [![Stats](https://github-readme-stats.vercel.app/api?username=MusaBuruzhev&show_icons=true&theme=vision-friendly-dark&width=800)](https://github.com/MusaBuruzhev)
   
   <!-- Топ языков -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaBuruzhev&layout=compact&theme=vision-friendly-dark)](https://github.com/MusaBuruzhev)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaBuruzhev&layout=compact&theme=vision-friendly-dark&width=800)](https://github.com/MusaBuruzhev)
   
   <!-- Счетчики -->
-  <img src="https://komarev.com/ghpvc/?username=MusaBuruzhev&label=Profile%20Views&color=0e75b6&style=flat" alt="Посетители профиля" />
-  
-  <img src="https://img.shields.io/github/commit-activity/m/MusaBuruzhev/MusaBuruzhev?label=Monthly%20Commits" alt="Ежемесячные коммиты" />
+  <div style="width: 800px; margin: 0 auto;">
+    <img src="https://komarev.com/ghpvc/?username=MusaBuruzhev&label=Profile%20Views&color=0e75b6&style=flat" alt="Посетители профиля" />
+    <img src="https://img.shields.io/github/commit-activity/m/MusaBuruzhev/MusaBuruzhev?label=Monthly%20Commits" alt="Ежемесячные коммиты" />
+  </div>
   
 </div>
 
