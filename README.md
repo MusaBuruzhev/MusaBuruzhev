@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Гифка самурая -->
-<div class="tenor-gif-embed" data-postid="17444000" data-share-method="host" data-aspect-ratio="1.43498" data-width="100%">
-  <a href="https://tenor.com/view/samurai-japan-windy-sword-birds-gif-17444000">Samurai Japan GIF</a> from 
-  <a href="https://tenor.com/search/samurai-gifs">Samurai GIFs</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!-- Гифка самурая (прямая ссылка) -->
+<img src="https://media.tenor.com/2cSxT3NTUAAAAAe/samurai-japan.gif" width="500" />
 
-</div>
-
-<p align="center">
+<p>
   <strong>「コードは私の刀である」</strong><br>
   <em>"Code is my sword"</em>
 </p>
+
+</div>
 
 
 ### 👋 Привет, меня зовут Муса
