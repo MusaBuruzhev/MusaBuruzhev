@@ -1,10 +1,15 @@
 <div align="center">
-  <video src="/samurai.mp4" width="600" autoplay muted></video>
-  <p>
-    <strong>「コードは私の刀である」</strong><br>
-    <em>"Code is my sword"</em>
-  </p>
+![Samurai GIF](/ezgif.com-animated-gif-maker.gif) 
+
+<p>
+  <strong>「コードは私の刀である」</strong><br>
+  <em>"Code is my sword"</em>
+</p>
+
 </div>
+
+
+Вот так вот?
 
 
 
