@@ -1,12 +1,9 @@
 <div align="center">
-
-<!-- ![Samurai GIF](/samurai-japan.gif) -->
-<video src="/samurai.mp4" autoplay muted loop="false"></video>
-<p>
-  <strong>「コードは私の刀である」</strong><br>
-  <em>"Code is my sword"</em>
-</p>
-
+  <video src="/samurai.mp4" width="600" autoplay muted></video>
+  <p>
+    <strong>「コードは私の刀である」</strong><br>
+    <em>"Code is my sword"</em>
+  </p>
 </div>
 
 
