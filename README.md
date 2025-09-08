@@ -1,5 +1,5 @@
 <div align="center">
-![Samurai GIF](/SUM.gif) 
+[Samurai GIF](/SUM.gif) 
 
 <p>
   <strong>「コードは私の刀である」</strong><br>
@@ -9,7 +9,7 @@
 </div>
 
 
-Вот так вот?
+
 
 
 
