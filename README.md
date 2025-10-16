@@ -21,7 +21,6 @@
 
 📫 **Связь со мной:** 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mburugev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/MBuru_D)
 
 
